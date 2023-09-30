@@ -1,0 +1,40 @@
+<!DOCTYPE cancion SYSTEM "informacion.dtd">
+<cancion>
+  <Informacion>
+    <título>Give it to me</título>
+    <compositores>Pharrell Williams</compositores>
+    <productores>Pharrell Williams</productores>
+    <sello_discográfico>Warner Bros Records</sello_discográfico>
+    <artista>Madonna</artista>
+    <Duración>4:47</Duración>
+    <año>2008</año>
+  </Informacion>
+</cancion>
+
+<cancion>
+  <Informacion>
+    <título>3D</título>
+    <compositores>BloodPop</compositores>
+    <compositores>David Stewart</compositores>
+    <compositores>Jack Harlow</compositores>
+    <productores>BloodPop</productores>
+    <productores>David Stewart</productores>
+    <sello_discográfico>Big Hit Music</sello_discográfico>
+    <artista>Jungkook</artista>
+    <artista>Jack Harlow</artista>
+    <Duración>3:21</Duración>
+    <año>2023</año>
+  </Informacion>
+</cancion>
+
+<cancion>
+  <Informacion>
+    <título>Heagum</título>
+    <compositores>Agust D</compositores>
+    <productores>Agust D</productores>
+    <sello_discográfico>Big Hit Music</sello_discográfico>
+    <artista>Agust D</artista>
+    <Duración>2:48</Duración>
+    <año>2023</año>
+  </Informacion>
+</cancion>

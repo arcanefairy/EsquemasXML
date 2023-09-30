@@ -1,0 +1,14 @@
+<!ELEMENT canciones (cancion+)>
+<!ELEMENT canción (Info)>
+<!ELEMENT Informacion (título, compositores, productores, sello_discográfico, artista, Duración, año)>
+<!ELEMENT compositores (compositores+)>
+<!ELEMENT productores (productores+)>
+<!ELEMENT artistas (artista+)>
+
+<!ELEMENT título (#PCDATA)>
+<!ELEMENT compositores (#PCDATA)>
+<!ELEMENT productores (#PCDATA)>
+<!ELEMENT sello_discográfico (#PCDATA)>
+<!ELEMENT artista (#PCDATA)>
+<!ELEMENT Duración (#PCDATA)>
+<!ELEMENT año (#PCDATA)>
